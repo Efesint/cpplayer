@@ -1,8 +1,8 @@
 #WARNING
 it's only 1.0,I wrote this in about an hour and will write a few more functions soon.
 The player can only play .wav and .ogg files (I'll add MP3 support soon).
-please, use pipewire 
-A very very very simple music player
+please, use pipewire. 
+
 ~~~
 _______  _____   _____         _______ __   __ _______  ______
 |       |_____] |_____] |      |_____|   |_/   |______ |_____/
