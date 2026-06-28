@@ -1,2 +1,27 @@
-# cpplayer
-A simple music player written in C++
+#WARNING
+it's only 1.0,I wrote this in about an hour and will write a few more functions soon.
+The player can only play .wav and .ogg files (I'll add MP3 support soon).
+please, use pipewire 
+A very very very simple music player
+~~~
+_______  _____   _____         _______ __   __ _______  ______
+|       |_____] |_____] |      |_____|   |_/   |______ |_____/
+|_____  |       |       |_____ |     |    |    |______ |    |_
+~~~
+## Installation
+1. clone the repository
+~~~
+https://github.com/Efesint/cpplayer
+~~~
+2. download the library
+~~~
+sudo apt-get install libsfml-dev
+~~~
+3. compile the cpplayer
+~~~
+g++ cpplayer.cpp -o cpplayer -lsfml-audio -lsfml-system -DSFML_USE_PULSEAUDIO
+~~~
+4. have fun
+~~~
+./cpplayer
+~~~
