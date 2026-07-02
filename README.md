@@ -10,7 +10,7 @@ _______  _____   _____         _______ __   __ _______  ______
 ## Installation
 1. clone the repository
 ~~~
-https://github.com/Efesint/cpplayer
+git clone https://github.com/Efesint/cpplayer
 ~~~
 2. download the library
 ~~~
