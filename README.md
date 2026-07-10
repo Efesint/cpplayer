@@ -1,4 +1,4 @@
-#WARNING
+# WARNING
 it's only 1.0,I wrote this in about an hour and will write a few more functions soon.
 please, use pipewire. 
 
