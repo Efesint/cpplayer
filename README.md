@@ -24,3 +24,6 @@ g++ cpplayer.cpp -o cpplayer -lsfml-audio -lsfml-system -DSFML_USE_PULSEAUDIO
 ~~~
 ./cpplayer
 ~~~
+
+## ..
+Development is frozen.
